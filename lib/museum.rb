@@ -8,7 +8,11 @@ class Museum
   end
 
   def add_exhibit(exhibit)
-    @exhibits << exhibit 
+    @exhibits << exhibit
+  end
+
+  def recommend_exhibits(patron)
+
   end
 
 end

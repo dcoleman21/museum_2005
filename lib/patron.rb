@@ -10,9 +10,6 @@ class Patron
   end
 
   def add_interests(interest)
-    @interests << interest 
-
+    @interests << interest
   end
-
-
 end
